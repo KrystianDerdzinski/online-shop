@@ -1,0 +1,22 @@
+{
+	"products": {
+		"product1": {
+			"productName": "Strawberry",
+			"price": 2.49,
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+			"image": "images/strawberry.jpeg"
+		},
+		"product2": {
+			"productName": "Apple",
+			"price": 4.59,
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+			"image": "images/apple.webp"
+		},
+		"product3": {
+			"productName": "Orange",
+			"price": 6.2,
+			"description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+			"image": "images/orange.jpg"
+		}
+	}
+}
